@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Títulos — CBM</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="historia.html">História</a>
+    <a href="elenco.html">Elenco</a>
+    <a href="idolos.html">Top Ídolos</a>
+    <a href="topjogadores.html">Top Jogadores</a>
+</nav>
+
+<section>
+    <h2>🏆 Títulos da CBM</h2>
+    <ul>
+        <li>Copa do mundo BR RANKEDS S3 – 2025</li>
+        <li>Brasileirão BR RANKEDS S4 – 2025</li>
+    </ul>
+</section>
+
+</body>
+</html>
