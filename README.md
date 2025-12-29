@@ -119,8 +119,8 @@ se consagrando o maior campeão do Brasil, a CBM descansa, mas a sua história n
             <li>Jpzin – CM</li>
             <li>Igor – GK</li>
         </ul>
-<img src="file:///C:/Users/bruno/Downloads/time-cabeca-mbappe.png" 
-     alt="Time Cabeça do Mbappé"
+<img src="./time-cabeca-mbappe.png" alt="Time Cabeça do Mbappé">
+
 
     </div>
 </section>
