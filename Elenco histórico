@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Elenco — CBM</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="historia.html">História</a>
+    <a href="titulos.html">Títulos</a>
+    <a href="idolos.html">Top Ídolos</a>
+    <a href="topjogadores.html">Top Jogadores</a>
+</nav>
+
+<section>
+    <h2>👥 Elenco Histórico</h2>
+    <ul>
+        <li>Sunny – CF</li>
+        <li>Predu – Winger</li>
+        <li>Espanca – Winger</li>
+        <li>Jpzin – CM</li>
+        <li>Igor – GK</li>
+    </ul>
+
+    <img src="./time-cabeca-mbappe.png" alt="Time Cabeça do Mbappé" style="width:100%;max-width:800px;">
+</section>
+
+</body>
+</html>
