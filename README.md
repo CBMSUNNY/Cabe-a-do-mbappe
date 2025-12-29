@@ -121,7 +121,6 @@ se consagrando o maior campeão do Brasil, a CBM descansa, mas a sua história n
         </ul>
 <img src="./time-cabeca-mbappe.png" alt="Time Cabeça do Mbappé">
 
-
    <div class="card">
     <h2>🔥 TOP ÍDOLOS CBM</h2>
     <ol style="font-size:18px; line-height:1.8;">
@@ -139,7 +138,6 @@ se consagrando o maior campeão do Brasil, a CBM descansa, mas a sua história n
 </div>
 </section>
 
-</div>
 
 
 </script>
