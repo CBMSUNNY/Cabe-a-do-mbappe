@@ -53,3 +53,22 @@ footer{
     color:#777;
 }
 </style>
+</head>
+<body>
+
+<header>
+    <h1>⚽ Cabeça do Mbappé FC</h1>
+    <p>O time que nasceu da zoeira e virou lenda</p>
+</header>
+
+<nav>
+    <a href="#historia">História</a>
+    <a href="#titulos">Títulos</a>
+    <a href="#elenco">Elenco</a>
+    <a href="#idolos">Ídolos</a>
+    <a href="#topjogadores">Top Jogadores</a>
+</nav>
+
+<section id="historia">
+<div class="card">
+<h2>📜 A Histó
