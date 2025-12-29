@@ -71,4 +71,77 @@ footer{
 
 <section id="historia">
 <div class="card">
-<h2>📜 A Histó
+<h2>📜 A História</h2>
+<p>
+Um time criado por Kirry, Predu e Sunny que nasceu da zoeira e conquistou o cenário brasileiro.
+</p>
+</div>
+</section>
+
+<section id="titulos">
+<div class="card">
+<h2>🏆 Títulos</h2>
+<ul>
+<li>Copa do mundo BR RANKEDS S3 – 2025</li>
+<li>Brasileirão BR RANKEDS S4 – 2025</li>
+</ul>
+</div>
+</section>
+
+<section id="elenco">
+<div class="card">
+<h2>👥 Elenco Histórico</h2>
+<ul>
+<li>Sunny – CF</li>
+<li>Predu – Winger</li>
+<li>Espanca – Winger</li>
+<li>Jpzin – CM</li>
+<li>Igor – GK</li>
+</ul>
+
+<img src="./time-cabeca-mbappe.png" style="width:100%; max-width:800px; display:block; margin:30px auto; border-radius:12px;">
+</div>
+</section>
+
+<section id="idolos">
+<div class="card">
+<h2>🔥 TOP ÍDOLOS CBM</h2>
+<ol>
+<li>SUNNY 👑</li>
+<li>PREDU ⚽</li>
+<li>ESPANCA 🧑‍💻</li>
+<li>IGOR 🧤</li>
+<li>JPZIN 🐻</li>
+<li>ESQUELETO 💀</li>
+<li>SWT 😡</li>
+<li>KARU 📱</li>
+<li>MALU 👱‍♂️</li>
+<li>KIRRY 🐒</li>
+</ol>
+</div>
+</section>
+
+<section id="topjogadores">
+<div class="card">
+<h2>🏅 TOP MELHORES JOGADORES DA CBM</h2>
+<ol>
+<li>IGOR 🧤</li>
+<li>SUNNY 👑</li>
+<li>PREDU ⚽</li>
+<li>ESPANCA 🧑‍💻</li>
+<li>JPZIN 🐻</li>
+<li>SWT 😡</li>
+<li>KARU 📱</li>
+<li>ESQUELETO 💀</li>
+<li>MALU 👱‍♂️</li>
+<li>KIRRY 🐒</li>
+</ol>
+</div>
+</section>
+
+<footer>
+© 2025 - Cabeça do Mbappé FC
+</footer>
+
+</body>
+</html>
