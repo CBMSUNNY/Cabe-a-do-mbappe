@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Cabeça do Mbappé FC</title>
+<style>
+    body{margin:0;font-family:Arial,sans-serif;background:#0e0e0e;color:#fff;}
+    nav{background:#111;display:flex;justify-content:center;padding:10px;}
+    nav a{color:#1e90ff;margin:0 15px;text-decoration:none;font-weight:bold;}
+    nav a:hover{text-decoration:underline;}
+    header{text-align:center;padding:50px;}
+</style>
+</head>
+<body>
+
+<header>
+    <h1>⚽ Cabeça do Mbappé FC</h1>
+    <p>Bem-vindo ao site da equipe!</p>
+</header>
+
+<nav>
+    <a href="historia.html">História</a>
+    <a href="titulos.html">Títulos</a>
+    <a href="elenco.html">Elenco</a>
+    <a href="idolos.html">Top Ídolos</a>
+    <a href="topjogadores.html">Top Jogadores</a>
+</nav>
+
+</body>
+</html>
