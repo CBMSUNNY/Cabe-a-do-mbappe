@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Top Ídolos — CBM</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="historia.html">História</a>
+    <a href="titulos.html">Títulos</a>
+    <a href="elenco.html">Elenco</a>
+    <a href="topjogadores.html">Top Jogadores</a>
+</nav>
+
+<section>
+    <h2>🔥 Top Ídolos CBM</h2>
+    <ol>
+        <li>SUNNY 👑</li>
+        <li>PREDU ⚽</li>
+        <li>ESPANCA 🧑‍💻</li>
+        <li>IGOR 🧤</li>
+        <li>JPZIN 🐻</li>
+        <li>ESQUELETO 💀</li>
+        <li>SWT 😡</li>
+        <li>KARU 📱</li>
+        <li>MALU 👱‍♂️</li>
+        <li>KIRRY 🐒</li>
+    </ol>
+</section>
+
+</body>
+</html>
